@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-..exercism/  # ignores all file with .exercism
+.\.exercism/  # ignores all file with .exercism
 # Distribution / packaging
 .Python
 build/
